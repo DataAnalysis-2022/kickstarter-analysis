@@ -20,7 +20,7 @@ Using the Kickstarter dataset, we can visualize campaign outcomes based on their
 
 For the outcomes based on launch dates,  a pivot table was created using a YEAR() function to have the month information and a chart was generated to illustrate the relationship between the outcomes and the launch dates, as shown in the following chart.  We can see from the chart that the most successful launch date is in May.
 
-![Chart 1](resources\Theater_Outcomes_vs_Launch.png)
+![Chart 1 Theater Outcomes vs Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
 
 
@@ -28,7 +28,7 @@ For the outcomes based on goals, we generated a table and used the CONTIFS comma
 
 
 
-​                    ![Chart 2](resources\Outcomes_vs_Goals.png)
+​                    ![Chart 2 Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 
 
 
